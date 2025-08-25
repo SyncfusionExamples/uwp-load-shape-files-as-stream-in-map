@@ -30,7 +30,7 @@ This repository contains sample for loading shape files as stream in map
 			MainPage = new MainPage();
 		}
 		
-	Refer to this [link](https://help.syncfusion.com/maui/licensing/overview) for more details.
+	Refer to this [link](https://help.syncfusion.com/uwp/licensing/overview) for more details.
 	
 3. Clean and build the application.
 
